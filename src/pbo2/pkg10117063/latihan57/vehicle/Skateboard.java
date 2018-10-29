@@ -5,9 +5,11 @@
  */
 package pbo2.pkg10117063.latihan57.vehicle;
 
-/**
- *
- * @author Deadpool
+/*
+Nama : Cessario Sheva L.P.A
+Kelas: IF-2
+Nim  : 10117063
+Deskripsi Program : Menampilkan kendaraan
  */
 public class Skateboard extends Vehicle {
     private double myBoardlength;
